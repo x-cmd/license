@@ -1,0 +1,7 @@
+(
+# xws gen-index
+xws gen-preview
+cd "$(x wsroot)"
+x z "dist/theme.tgz" index.yml style style-preview
+rm -rf style-preview
+)

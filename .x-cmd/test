@@ -1,0 +1,16 @@
+# shellcheck shell=bash disable=SC1091,SC2034 #xsh
+
+# Section: Arg
+WORK_DIR="$(x wsroot)"
+FLIE_LIST="$(ls "$WORK_DIR")"
+# EndSection
+
+# Section: Main
+[ -z "$___X_CMD_ROOT" ] && return 1
+[ ! -d "$___X_CMD_ROOT/.tmp/theme/" ] && mkdir -p "$___X_CMD_ROOT/.tmp/theme/"
+while read -r file; do
+    [ -f "$WORK_DIR/$file" ] && cp "$WORK_DIR/$file" "$___X_CMD_ROOT/.tmp/theme/"
+done << EOF
+	$FLIE_LIST
+EOF
+# EndSection

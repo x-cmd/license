@@ -1,0 +1,6 @@
+(
+    cd "$(x wsroot)/style"
+    for i in *; do
+        printf "%s\n" "- $i"
+    done >"$(x wsroot)/index.yml"
+)
