@@ -1,11 +1,33 @@
-- body
-  - agplv3
-  - apachev2
-  - bsdv1
-  - gplv3
-  - lgplv3
-  - mit
-  - mplv2
-  - unlicense
-- header
+- body:
+  - agplv3:
+    - name: GNU GENERAL PUBLIC LICENSE, Version 3
+    - url: https://www.gnu.org/licenses/gpl-3.0.txt
+  - apachev2:
+    - name: Apache License, Version 2.0
+    - url: https://www.apache.org/licenses/LICENSE-2.0.txt
+  - bsdv1:
+    - name: Berkeley Distribution License
+    - url: https://www.apache.org/licenses/LICENSE-2.0.txt
+  - gplv3:
+    - name: GNU GENERAL PUBLIC LICENSE, Version 3
+    - url: https://www.gnu.org/licenses/gpl-3.0.txt
+  - gplv2:
+    - name: GNU GENERAL PUBLIC LICENSE, Version 2
+    - url: https://www.gnu.org/licenses/gpl-2.0.txt
+  - lgplv2:
+    - name: GNU LESSER GENERAL PUBLIC LICENSE, Version 2
+    - url: https://www.gnu.org/licenses/lgpl-2.0.txt
+  - lgplv3:
+    - name: GNU LESSER GENERAL PUBLIC LICENSE, Version 3
+    - url: https://www.gnu.org/licenses/lgpl-3.0.txt
+  - mit:
+    - name:
+    - url:
+  - mplv2:
+    - name: https://mozilla.org/MPL/2.0/
+    - url: Apache License, Version 2.0
+  - unlicense:
+    - name: Unlicense
+    - url: https://unlicense.org
+- header:
   - HEADER
