@@ -1,0 +1,2 @@
+# x z $(x wsroot)/dist/license.tgz lib index.yml
+tar czvf $(x wsroot)/dist/license.tgz lib index.yml
