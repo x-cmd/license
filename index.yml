@@ -38,20 +38,98 @@
   - apachev1.0:
     - name: Apache License, Version 1.0
     - url: https://www.apache.org/licenses/LICENSE-1.0
-
-  - bsdv1:
-    - name: Berkeley Distribution License
-    - url:
-
   - mit:
     - name: Massachusetts Institute of Technology
-    - url: https://www.mit.edu/~amini/LICENSE.md
-
+    - url: https://spdx.org/licenses/MIT.txt
   - mplv2:
-    - name: https://mozilla.org/MPL/2.0/
-    - url: Apache License, Version 2.0
+    - name: Mozilla Public License, Version 2.0
+    - url: https://www.mozilla.org/media/MPL/2.0/index.48a3fe23ed13.txt
+  - mplv1.1:
+    - name: Mozilla Public License, Version 1.1
+    - url: https://www.mozilla.org/media/MPL/1.1/index.0c5913925d40.txt
   - unlicense:
     - name: Unlicense
-    - url: https://unlicense.org
+    - url: https://spdx.org/licenses/Unlicense.txt
+  - 0bsd:
+    - name: BSD Zero Clause License
+    - url: https://spdx.org/licenses/0BSD.txt
+  - bsd-1-clause:
+    - name: BSD 1-Clause License
+    - url: https://svnweb.freebsd.org/base/head/include/ifaddrs.h?revision=326823
+  - bsd-2-clause:
+    - name: BSD 2-Clause "Simplified" License
+    - url: https://spdx.org/licenses/BSD-2-Clause.txt
+  - bsd-2-clause-patent:
+    - name: BSD-2-Clause Plus Patent License
+    - url: https://spdx.org/licenses/BSD-2-Clause-Patent.html
+  - bsd-3-clause:
+    - name: BSD 3-Clause "New" or "Revised" License
+    - url: https://spdx.org/licenses/BSD-3-Clause.txt
+  - bsd-3-clause-clear:
+    - name: BSD 3-Clause Clear License
+    - url: https://spdx.org/licenses/BSD-3-Clause-Clear.txt
+  - aflv3:
+    - name: Academic Free License, Version 3.0
+    - url: https://spdx.org/licenses/AFL-3.0.txt
+- aflv2.1:
+    - name: Academic Free License, Version 2.1
+    - url: https://spdx.org/licenses/AFL-2.1.txt
+- aflv2:
+    - name: Academic Free License, Version 2.0
+    - url: https://spdx.org/licenses/AFL-2.0.txt
+- aflv1.2:
+    - name: Academic Free License, Version 1.2
+    - url: https://spdx.org/licenses/AFL-1.2.txt
+- aflv1.1:
+    - name: Academic Free License, Version 1.1
+    - url: https://spdx.org/licenses/AFL-1.1.txt
+- aplv1:
+    - name:  Adaptive Public License, Version 1.0
+    - url: https://spdx.org/licenses/APL-1.0.txt
+- apslv2:
+    - name:  Apple Public Source License, Version 2.0
+    - url: https://spdx.org/licenses/APSL-2.0.txt
+- alv2:
+    - name:  Artistic License, Version 2.0
+    - url: https://spdx.org/licenses/Artistic-2.0.txt
+- aal:
+    - name:  Attribution Assurance License
+    - url: https://spdx.org/licenses/AAL.txt
+- bslv1:
+    - name:  Boost Software License, Version 1.0
+    - url: https://www.boost.org/LICENSE_1_0.txt
+- cecillv2.1:
+    - name: CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL, Version 2.1
+    - url: http://www.cecill.info/licences/Licence_CeCILL_V2.1-fr.txt
+- cddlv1:
+    - name: Common Development and Distribution License, Version 1.0
+    - url: https://spdx.org/licenses/CDDL-1.0.txt
+- cpalv1:
+    - name: Common Development and Distribution License, Version 1.0
+    - url: https://spdx.org/licenses/CPAL-1.0.txt
+- catoslv1.1:
+    - name: Computer Associates Trusted Open Source License, Version 1.1
+    - url: https://spdx.org/licenses/CATOSL-1.1.txt
+- calv1:
+    - name: Cryptographic Autonomy License, Version 1.0
+    - url: https://spdx.org/licenses/CAL-1.0.html
+- eplv2:
+    - name: Eclipse Public License, Version 2.0
+    - url: https://spdx.org/licenses/EPL-2.0.html
+- eclv2:
+    - name: Educational Community License, Version 2.0
+    - url: https://spdx.org/licenses/ECL-2.0.txt
+- eflv2:
+    - name: Eiffel Forum License, Version 2.0
+    - url: https://spdx.org/licenses/EFL-2.0.txt
+- iplv1:
+    - name: IBM Public License, Version 1.0
+    - url: https://spdx.org/licenses/IPL-1.0.txt
+
+
+
+- Licenses by Name:
+    - name:
+    - url: https://opensource.org/licenses/alphabetical
 - header:
   - HEADER
