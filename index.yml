@@ -1,28 +1,52 @@
 - body:
-  - agplv3:
-    - name: GNU GENERAL PUBLIC LICENSE, Version 3
-    - url: https://www.gnu.org/licenses/gpl-3.0.txt
-  - apachev2:
-    - name: Apache License, Version 2.0
-    - url: https://www.apache.org/licenses/LICENSE-2.0.txt
-  - bsdv1:
-    - name: Berkeley Distribution License
-    - url: https://www.apache.org/licenses/LICENSE-2.0.txt
   - gplv3:
     - name: GNU GENERAL PUBLIC LICENSE, Version 3
     - url: https://www.gnu.org/licenses/gpl-3.0.txt
   - gplv2:
     - name: GNU GENERAL PUBLIC LICENSE, Version 2
-    - url: https://www.gnu.org/licenses/gpl-2.0.txt
-  - lgplv2:
-    - name: GNU LESSER GENERAL PUBLIC LICENSE, Version 2
-    - url: https://www.gnu.org/licenses/lgpl-2.0.txt
+    - url: https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+  - gplv1:
+    - name: GNU GENERAL PUBLIC LICENSE, Version 1
+    - url: https://www.gnu.org/licenses/old-licenses/gpl-1.0.txt
   - lgplv3:
     - name: GNU LESSER GENERAL PUBLIC LICENSE, Version 3
     - url: https://www.gnu.org/licenses/lgpl-3.0.txt
-  - mit:
-    - name:
+  - lgplv2.1:
+    - name: GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1
+    - url: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
+  - lgplv2.0:
+    - name: GNU LESSER GENERAL PUBLIC LICENSE, Version 2.0
+    - url: https://www.gnu.org/licenses/old-licenses/lgpl-2.0.txt
+  - agplv3:
+    - name: GNU AFFERO GENERAL PUBLIC LICENSE, Version 3
+    - url: https://www.gnu.org/licenses/agpl-3.0.txt
+  - fdlv1.3:
+    - name: GNU Free Documentation License, Version 1.3
+    - url: https://www.gnu.org/licenses/fdl-1.3.txt
+  - fdlv1.2:
+    - name: GNU Free Documentation License, Version 1.2
+    - url: https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt
+  - fdlv1.1:
+    - name: GNU Free Documentation License, Version 1.1
+    - url: https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt
+  - apachev2:
+    - name: Apache License, Version 2.0
+    - url: https://www.apache.org/licenses/LICENSE-2.0.txt
+  - apachev1.1:
+    - name: Apache License, Version 1.1
+    - url: https://www.apache.org/licenses/LICENSE-1.1
+  - apachev1.0:
+    - name: Apache License, Version 1.0
+    - url: https://www.apache.org/licenses/LICENSE-1.0
+
+  - bsdv1:
+    - name: Berkeley Distribution License
     - url:
+
+  - mit:
+    - name: Massachusetts Institute of Technology
+    - url: https://www.mit.edu/~amini/LICENSE.md
+
   - mplv2:
     - name: https://mozilla.org/MPL/2.0/
     - url: Apache License, Version 2.0
